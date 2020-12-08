@@ -1,5 +1,5 @@
 {
-  "name": "ndr-demo",
+  "name": "serverless-plugin-voicemail-call-list",
   "version": "0.0.0",
   "private": true,
   "scripts": {

@@ -9,11 +9,23 @@ Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmj
 Afterwards, install the dependencies by running `npm install`:
 
 ```bash
-cd 
+cd
 
 # If you use npm
 npm install
 ```
+
+### CLI Instructions
+
+- [Install/Use Twilio CLI](https://www.twilio.com/docs/twilio-cli/quickstart)
+
+- [Install Flex CLI Plugin](https://www.twilio.com/docs/flex/developer/plugins/cli/install)
+
+  - This is the Flex Plugin for the Twilio CLI which allows you to create, deploy, and release custom Flex Plugins to your Twilio Flex instance.
+
+- [Deploy and Release Flex Plugins](https://www.twilio.com/docs/flex/developer/plugins/cli/deploy-and-release)
+
+- [React](https://www.twilio.com/docs/flex/developer/plugins/react-versions)
 
 ## Development
 
